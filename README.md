@@ -1,2 +1,2 @@
 # TipTime 
-<p>Hora da Gorjeta</p>
+<p>Hora da Gorjeta [PT]</p>
